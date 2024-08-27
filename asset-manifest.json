@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AliRazaCheema-dev/my-react-app.git/static/css/main.c8c5b50c.css",
+    "main.js": "/AliRazaCheema-dev/my-react-app.git/static/js/main.8083ae49.js",
+    "static/js/453.ed3810f9.chunk.js": "/AliRazaCheema-dev/my-react-app.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/AliRazaCheema-dev/my-react-app.git/index.html",
+    "main.c8c5b50c.css.map": "/AliRazaCheema-dev/my-react-app.git/static/css/main.c8c5b50c.css.map",
+    "main.8083ae49.js.map": "/AliRazaCheema-dev/my-react-app.git/static/js/main.8083ae49.js.map",
+    "453.ed3810f9.chunk.js.map": "/AliRazaCheema-dev/my-react-app.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8c5b50c.css",
+    "static/js/main.8083ae49.js"
+  ]
+}
